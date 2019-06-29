@@ -1,0 +1,12 @@
+body {
+  background-color: #1B2B31;
+  color: white;
+}
+
+.unity {
+  position: absolute;
+  width: 1240;
+  height: 720
+  left: 50%;
+  transform: translate(25%, 10%);
+}
